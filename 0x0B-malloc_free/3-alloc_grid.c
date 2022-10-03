@@ -32,3 +32,5 @@ for (j = 0; j < height; j++)
 for (x = 0; x < width; x++)
 arr[j][x] = 0;
 }
+return (arr);
+}
